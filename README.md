@@ -1,2 +1,6 @@
 # Instagram-Clone
-Projeto criado para o Bootcamp HTML Web Developer Dio
+Projeto Recriado para o Bootcamp HTML Web Developer Dio
+- HTML5
+- CSS3
+- JavaScript
+- FlexBox
